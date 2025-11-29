@@ -16,3 +16,13 @@ Name2 Name2:
   avatar      : "bio-photo.jpg"
   twitter     : "name2"
   google_plus : "Name"
+
+
+  Cristian Bautista:
+  name        : "Cristian Bautista"
+  uri         : "https://cristianbautista123.github.io"
+  email       : "bautistagordo.1@buckeyemail.osu.edu"
+  bio         : "Looking for a PhD position in Perception and RL for Robotics."
+  avatar      : "images/crisgit.jpeg"
+  linkedin    : "cristian-bautista-ai"
+  github      : "cristianbautista123"
