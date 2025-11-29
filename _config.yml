@@ -23,7 +23,7 @@ repository               : "cristianbautista123/cristianbautista123.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/crisgit.jpeg"
+  avatar           : "crisgit.jpeg"
   name             : "cris"
   pronouns         : # example: "she/her"  
   bio              : "Looking for a PhD position in Perception and RL for Robotics. "  # A short bio to display in the author profile section
