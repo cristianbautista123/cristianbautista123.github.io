@@ -2,6 +2,7 @@
 permalink: /
 title: "👋🏼Hi there, welcome"
 author_profile: true
+author: "Cristian Bautista" 
 redirect_from: 
   - /about/
   - /about.html
