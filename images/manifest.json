@@ -1,15 +1,12 @@
 {
-	"name": "OOjs UI icon academic-progressive",
-	"icons": [
-		{
-			"src": "/images/favicon-192x192.png",
-			"sizes": "192x192",
-			"type": "image/png"
-		},
-		{
-			"src": "/images/favicon-512x512.png",
-			"sizes": "512x512",
-			"type": "image/png"
-		}
-	]
+  "name": "Cristian Bautista",
+  "short_name": "Cristian Bautista",
+  "icons": [
+    {
+      "src": "/images/osu_logo.png?v=2",
+      "sizes": "1024x1024",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
 }

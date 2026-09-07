@@ -8,14 +8,8 @@
 #      Markdown formatted page while the second is generated using JSON.
 
 main:
-  - title: "Projects"
-    url: /projects/
-
   - title: "Gallery"
     url: /gallery/
-
-  - title: "Notes"
-    url: /notes/
 
   - title: "CV"
     url: /files/Cristian_Bautista_CV.pdf

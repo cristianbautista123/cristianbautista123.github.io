@@ -10,6 +10,16 @@
 
 <script>
   document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
+
+  // Default new visitors to light mode while preserving an explicit choice.
+  try {
+    var savedTheme = localStorage.getItem('theme');
+    if (savedTheme !== 'dark' && savedTheme !== 'light') {
+      localStorage.setItem('theme', 'light');
+    }
+  } catch (error) {
+    // The page already renders in light mode when localStorage is unavailable.
+  }
 </script>
 
 <!-- For all browsers -->
